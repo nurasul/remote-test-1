@@ -19,3 +19,5 @@ print(deco(5 , 10))
 print(deco(50 , 100))
 
 print(deco(1,3))
+
+print((deco(4,5)))
